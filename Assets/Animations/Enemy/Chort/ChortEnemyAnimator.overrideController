@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ChortEnemyAnimator
+  m_Controller: {fileID: 9100000, guid: c396244338ee10e44b9e9f579a795d0a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9e989824ba45bc9479a5705d7bfca2f1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6b23711b9a39f4a4cb764307b105322c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a0e68763ae821214da9da615170d4d11, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b7c82013d40a0034d8d7ca3ab37c198d, type: 2}
